@@ -1,0 +1,108 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.header_content1{
+	background-color: lightgreen;
+}
+.content_1{
+	background-color: #C3DEB7;
+}
+.content_2{
+	background-color: #EDBFA7;
+}
+.service_content1{
+	background-color: #F57828;
+}
+.service_content2{
+	background-color: #A7C0DC;
+}
+.service_content3{
+	background-color: #F2DE7B;
+}
+.content5{
+	background-color: #8498AE;
+}
+
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+.header_content1{
+	background-color: lightblue;
+}
+.content_1{
+	background-color: red;
+}
+.content_2{
+	background-color: blue;
+}
+.service_content1{
+	background-color: black;
+}
+.service_content2{
+	background-color: grey;
+}
+.service_content3{
+	background-color: pink;
+}
+.content5{
+	background-color: lightgreen;
+}
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+.header_content1{
+	background-color: #DD5347;
+}
+.content_1{
+	background-color: #F6E890;
+}
+.content_2{
+	background-color: #F68711;
+}
+.service_content1{
+	background-color: #16A05D;
+}
+.service_content2{
+	background-color: #E5CD0B;
+}
+.service_content3{
+	background-color: #5E84FA;
+}
+.content5{
+	background-color: black;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+	.header_content1{
+	background-color: #C70065;
+}
+.content_1{
+	background-color: #D8DAA8;
+}
+.content_2{
+	background-color: #C5DAED;
+}
+.service_content1{
+	background-color: #B0193A;
+}
+.service_content2{
+	background-color: #F8B9D4;
+}
+.service_content3{
+	background-color: #73CEE3;
+}
+.content5{
+	background-color: #091C5E;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
